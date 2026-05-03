@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gigaj0ule.github.io/docs-kpc3kx/sitemap.xml
